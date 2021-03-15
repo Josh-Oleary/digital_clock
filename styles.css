@@ -1,0 +1,18 @@
+body {
+    background-color: rgba(0, 0, 0, 0.678);
+}
+#clock {
+    color: rgb(148, 209, 57);
+    font-family: 'DotGothic16', sans-serif;
+    text-align: center;
+    margin-top: 5rem;
+    font-size: xxx-large;
+    letter-spacing: 10px;
+}
+select {
+    display: block;
+    margin: auto;
+    font-size: large;
+    font-family: 'Oswald', sans-serif;
+    border-radius: 5px;
+}
